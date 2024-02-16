@@ -7,7 +7,10 @@
   - Python (Numpy, Scipy, Matplotlib, ParaView)
   - C++ (In the context of OpenFOAM and NREL's SOWFA)
   - git
-  - HPC, SLURM, MPI
+  - HPC, SLURM
+  - MPI
+  - LaTex
+  - GNU Make
 
 - 📫 You can contact me with NotDrJeff@gmail.com
 
